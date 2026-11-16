@@ -15,5 +15,3 @@ Machines generate, data measures, judgment decides what matters.
 
 - [HackerNoon](https://hackernoon.com/u/bj_beyond)
 - [Medium](https://medium.com/@bj_beyond)
-- [Tamago-Zine](https://tamagozine.org/author/matteozanetti2005/)
-- [Think Beyond AI](https://www.thinkbeyondai.com/author/matteo/)
